@@ -24,12 +24,11 @@ Here are some ideas to get you started:
 ## JavaScript, Node.js developer 
 
 ### Currently I'm one of the contributors:
-#### [Coliseum](https://dbforgame.herokuapp.com) - Browser MMORPG ([git repository](https://github.com/d4rsen/Coliseum))
+#### [curren-service](https://curren-service.herokuapp.com/) - Browser MMORPG ([git repository](https://github.com/MrZet1989/currency-service))
 ### How to reach me: 
 
- - telegam - [@compampa](https://t.me/compampa) 
- - email - the.miscellaneous@ya.ru
- - instagram - [forgotten.login](https://instagram.com/forgotten.login)
+ - telegam - [@mr_mz_1989](https://t.me/mr_mz_1989) 
+ - email - mr.derks1989@gmail.com
 
 Techonologies | Description | Tools
 --- | --- | ---
