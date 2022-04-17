@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ### Currently I'm one of the contributors:
 #### [curren-service](https://curren-service.herokuapp.com/) - Сorporate exchange rate ([git repository](https://github.com/MrZet1989/currency-service))
-#### [social project](https://sportik.herokuapp.com/) - Social project for the development of sports ([git repository](https://github.com/MrZet1989/sport-app))
+#### [(https://sportik.herokuapp.com/](https://sportik.herokuapp.com/) - Social project for the development of sports ([git repository](https://github.com/MrZet1989/sport-app))
 ### How to reach me: 
 
  - telegam - [@mr_mz_1989](https://t.me/mr_mz_1989) 
