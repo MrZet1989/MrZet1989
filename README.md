@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 Techonologies | Description | Tools
 --- | --- | ---
-Javascript | *methodology* | **MVC**, **DOM**, **AJAX**, **SOLID**, **OOP**
+Javascript | *methodology* | **MVC**, **DOM**, **AJAX**, **OOP**
 React | *services* | `React router DOM v6`, `Redux`, `Redux saga`, `React Hooks`
 node.js | *stack* | `Express`, `JWT`, `Socket IO`, `REST API`, `axios`
 SQL | *ORM & DB* |  `Postgres`, `Sequelize`
