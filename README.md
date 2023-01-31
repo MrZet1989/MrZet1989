@@ -35,9 +35,9 @@ Techonologies | Description | Tools
 --- | --- | ---
 Javascript | *methodology* | **MVC**, **DOM**, **AJAX**, **OOP**
 React | *services* | `React router DOM v6`, `Redux`, `Redux saga`, `React Hooks`
-node.js | *stack* | `Express`, `JWT`, `Socket IO`, `REST API`, `axios`
-SQL | *ORM & DB* |  `Postgres`, `Sequelize`
-Development & Deploy | *services* | `GIT`, `Firebase`, `Heroku`, `webpack`
+node.js | *stack* | `Electron`, `Express`, `JWT`, `Socket IO`, `REST API`, `axios`
+SQL | *ORM & DB* |  `Postgres`, `Sequelize`, `MongoDB`,`MongoDB Compass`
+Development & Deploy | *services* | `GIT`, `Firebase`, `Heroku`, `webpack`,`Vite`
 Testing | *test* | `Jest`
 HTML & CSS | *preprocessors & principles* | `Emmet`, `SaSS`, `Bootstrap`,`Material UI`, `module`, `grid`, `flexboxes`
 
